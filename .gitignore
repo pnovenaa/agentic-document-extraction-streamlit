@@ -18,3 +18,4 @@ venv/
 *.jpeg
 *.ipynb
 *.txt
+!requirements.txt

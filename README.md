@@ -145,10 +145,6 @@ Contributions are welcome. Feel free to open an issue or submit a pull request f
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
 ## Dependencies
 
 Install the required packages manually:
