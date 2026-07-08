@@ -1,0 +1,27 @@
+{
+  "extraction": {
+    "Summary": "The document outlines guidelines on proper advice practices for the life insurance business, formulated by Bank Negara Malaysia. These guidelines aim to improve service standards, strengthen consumer protection, and enhance public confidence in the insurance industry, addressing issues like complex products, consumer difficulty in making informed decisions, and misconduct leading to misrepresentation and mis-selling. The core objectives include protecting policy owners' interests, ensuring informed choices, promoting consistent sales practices, enhancing professionalism, and minimizing mis-selling. The guidelines establish a structured sales process for intermediaries, comprising four key components: disclosure of the intermediary's status, conducting a fact-find on the prospective policy owner, performing a financial needs analysis, and providing product recommendations along with a record of advice. This structured approach ensures that advice is suitable, policies are affordable, and consumers make informed decisions."
+  },
+  "extraction_metadata": {
+    "Summary": {
+      "references": [
+        "6cb3f632-13c1-48c0-8745-2f3129c1d476",
+        "a9d604e0-35e3-4528-bb67-352a87b2cffa",
+        "604a0336-1e79-4348-95ef-8fdb5cd54815",
+        "e03a5e09-50fb-443a-891e-c06d697ffdd4"
+      ],
+      "value": "The document outlines guidelines on proper advice practices for the life insurance business, formulated by Bank Negara Malaysia. These guidelines aim to improve service standards, strengthen consumer protection, and enhance public confidence in the insurance industry, addressing issues like complex products, consumer difficulty in making informed decisions, and misconduct leading to misrepresentation and mis-selling. The core objectives include protecting policy owners' interests, ensuring informed choices, promoting consistent sales practices, enhancing professionalism, and minimizing mis-selling. The guidelines establish a structured sales process for intermediaries, comprising four key components: disclosure of the intermediary's status, conducting a fact-find on the prospective policy owner, performing a financial needs analysis, and providing product recommendations along with a record of advice. This structured approach ensures that advice is suitable, policies are affordable, and consumers make informed decisions."
+    }
+  },
+  "metadata": {
+    "credit_usage": 2.5858,
+    "duration_ms": 10057,
+    "filename": "upload.md",
+    "job_id": "7fd499f7338a46e9b78d028946052ac6",
+    "org_id": "dk8btvxvg516",
+    "version": "extract-20260314",
+    "fallback_model_version": null,
+    "schema_violation_error": null,
+    "warnings": []
+  }
+}

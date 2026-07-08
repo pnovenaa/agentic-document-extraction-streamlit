@@ -1,0 +1,1608 @@
+{
+  "chunks": [
+    {
+      "id": "98d25f9a-559f-4217-a506-181a3910a405",
+      "grounding": {
+        "box": {
+          "bottom": 0.13849575817584991,
+          "left": 0.40745651721954346,
+          "right": 0.5922910571098328,
+          "top": 0.08315641433000565
+        },
+        "page": 0
+      },
+      "markdown": "<a id='98d25f9a-559f-4217-a506-181a3910a405'></a>\n\n<::logo: \nINVOICE\nBlue and red bold text with a slight 3D effect::>",
+      "type": "logo"
+    },
+    {
+      "id": "59643418-c66f-4220-b659-95d73652d338",
+      "grounding": {
+        "box": {
+          "bottom": 0.25139570236206055,
+          "left": 0.11471754312515259,
+          "right": 0.4175301194190979,
+          "top": 0.1392173320055008
+        },
+        "page": 0
+      },
+      "markdown": "<a id='59643418-c66f-4220-b659-95d73652d338'></a>\n\nYour Hospital Name\nTO JOHN SMITH\nDirector\nA: 789, WEST STREET, IA 50023\nW: info@yourmail.com\nP: +1-202-555-0163",
+      "type": "text"
+    },
+    {
+      "id": "a7c3ba7b-440c-4927-a7c5-c4869ab1ed11",
+      "grounding": {
+        "box": {
+          "bottom": 0.2679232358932495,
+          "left": 0.5335591435432434,
+          "right": 0.811346709728241,
+          "top": 0.16223439574241638
+        },
+        "page": 0
+      },
+      "markdown": "<a id='a7c3ba7b-440c-4927-a7c5-c4869ab1ed11'></a>\n\nDECEMBER 07, 2017\n\nInvoice No.#23698720\nInvoice Date: 20-April-2018\nIssue Date: 24-April-2018\nAccount No.: 98760967",
+      "type": "text"
+    },
+    {
+      "id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+      "grounding": {
+        "box": {
+          "bottom": 0.6334995627403259,
+          "left": 0.045386284589767456,
+          "right": 0.9509539604187012,
+          "top": 0.27957117557525635
+        },
+        "page": 0
+      },
+      "markdown": "<a id='5941c71c-52a8-4803-9418-b92f9f82ac7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">Medicine</td><td id=\"0-4\">Amount</td><td id=\"0-5\">Quantity</td><td id=\"0-6\">Balance</td></tr>\n<tr><td id=\"0-7\">01.</td><td id=\"0-8\">Udddd</td><td id=\"0-9\">$2000.00</td><td id=\"0-a\">2</td><td id=\"0-b\">$4000.00</td></tr>\n<tr><td id=\"0-c\">02.</td><td id=\"0-d\">Hnnnnn</td><td id=\"0-e\">$500.00</td><td id=\"0-f\">1</td><td id=\"0-g\">$500.00</td></tr>\n<tr><td id=\"0-h\">03.</td><td id=\"0-i\">Kkklllllll</td><td id=\"0-j\">$100.00</td><td id=\"0-k\">2</td><td id=\"0-l\">$200.00</td></tr>\n<tr><td id=\"0-m\">04.</td><td id=\"0-n\">Urujnggg</td><td id=\"0-o\">$1500.00</td><td id=\"0-p\">1</td><td id=\"0-q\">$1500.00</td></tr>\n<tr><td id=\"0-r\">05.</td><td id=\"0-s\">Ghjhkkil</td><td id=\"0-t\">$5000.00</td><td id=\"0-u\">1</td><td id=\"0-v\">$5000.00</td></tr>\n<tr><td id=\"0-w\">06.</td><td id=\"0-x\">Kngtad</td><td id=\"0-y\">$300.00</td><td id=\"0-z\">2</td><td id=\"0-A\">$600.00</td></tr>\n<tr><td id=\"0-B\">07.</td><td id=\"0-C\">Liningg</td><td id=\"0-D\">$20.00</td><td id=\"0-E\">2</td><td id=\"0-F\">$40.00</td></tr>\n<tr><td id=\"0-G\">08.</td><td id=\"0-H\">Ikkngt</td><td id=\"0-I\">$450.00</td><td id=\"0-J\">1</td><td id=\"0-K\">$450.00</td></tr>\n<tr><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\">Sub-Total</td><td id=\"0-P\">$12290.00</td></tr>\n<tr><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">Tax Vat (15%)</td><td id=\"0-U\">$2278.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Payment Method:</td><td id=\"0-W\"></td><td id=\"0-X\">Discount</td><td id=\"0-Y\">$760.00</td></tr>\n<tr><td id=\"0-Z\" colspan=\"2\">Pay Pal: payment@website.com</td><td id=\"0-10\"></td><td id=\"0-11\">(5%)</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\" colspan=\"2\">Card Payment We Accept: Visa, MasterCard</td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td></tr>\n<tr><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">GRAND</td><td id=\"0-1b\">$13050.00</td></tr>\n<tr><td id=\"0-1c\" colspan=\"2\">Total Due:</td><td id=\"0-1d\"></td><td id=\"0-1e\">TOTAL</td><td id=\"0-1f\"></td></tr>\n<tr><td id=\"0-1g\" colspan=\"2\">$13050.00</td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\" colspan=\"5\">THANK YOU FOR YOUR BUSINESS!</td></tr>\n</table>",
+      "type": "table"
+    }
+  ],
+  "markdown": "<a id='98d25f9a-559f-4217-a506-181a3910a405'></a>\n\n<::logo: \nINVOICE\nBlue and red bold text with a slight 3D effect::>\n\n<a id='59643418-c66f-4220-b659-95d73652d338'></a>\n\nYour Hospital Name\nTO JOHN SMITH\nDirector\nA: 789, WEST STREET, IA 50023\nW: info@yourmail.com\nP: +1-202-555-0163\n\n<a id='a7c3ba7b-440c-4927-a7c5-c4869ab1ed11'></a>\n\nDECEMBER 07, 2017\n\nInvoice No.#23698720\nInvoice Date: 20-April-2018\nIssue Date: 24-April-2018\nAccount No.: 98760967\n\n<a id='5941c71c-52a8-4803-9418-b92f9f82ac7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">Medicine</td><td id=\"0-4\">Amount</td><td id=\"0-5\">Quantity</td><td id=\"0-6\">Balance</td></tr>\n<tr><td id=\"0-7\">01.</td><td id=\"0-8\">Udddd</td><td id=\"0-9\">$2000.00</td><td id=\"0-a\">2</td><td id=\"0-b\">$4000.00</td></tr>\n<tr><td id=\"0-c\">02.</td><td id=\"0-d\">Hnnnnn</td><td id=\"0-e\">$500.00</td><td id=\"0-f\">1</td><td id=\"0-g\">$500.00</td></tr>\n<tr><td id=\"0-h\">03.</td><td id=\"0-i\">Kkklllllll</td><td id=\"0-j\">$100.00</td><td id=\"0-k\">2</td><td id=\"0-l\">$200.00</td></tr>\n<tr><td id=\"0-m\">04.</td><td id=\"0-n\">Urujnggg</td><td id=\"0-o\">$1500.00</td><td id=\"0-p\">1</td><td id=\"0-q\">$1500.00</td></tr>\n<tr><td id=\"0-r\">05.</td><td id=\"0-s\">Ghjhkkil</td><td id=\"0-t\">$5000.00</td><td id=\"0-u\">1</td><td id=\"0-v\">$5000.00</td></tr>\n<tr><td id=\"0-w\">06.</td><td id=\"0-x\">Kngtad</td><td id=\"0-y\">$300.00</td><td id=\"0-z\">2</td><td id=\"0-A\">$600.00</td></tr>\n<tr><td id=\"0-B\">07.</td><td id=\"0-C\">Liningg</td><td id=\"0-D\">$20.00</td><td id=\"0-E\">2</td><td id=\"0-F\">$40.00</td></tr>\n<tr><td id=\"0-G\">08.</td><td id=\"0-H\">Ikkngt</td><td id=\"0-I\">$450.00</td><td id=\"0-J\">1</td><td id=\"0-K\">$450.00</td></tr>\n<tr><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\">Sub-Total</td><td id=\"0-P\">$12290.00</td></tr>\n<tr><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">Tax Vat (15%)</td><td id=\"0-U\">$2278.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Payment Method:</td><td id=\"0-W\"></td><td id=\"0-X\">Discount</td><td id=\"0-Y\">$760.00</td></tr>\n<tr><td id=\"0-Z\" colspan=\"2\">Pay Pal: payment@website.com</td><td id=\"0-10\"></td><td id=\"0-11\">(5%)</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\" colspan=\"2\">Card Payment We Accept: Visa, MasterCard</td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td></tr>\n<tr><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">GRAND</td><td id=\"0-1b\">$13050.00</td></tr>\n<tr><td id=\"0-1c\" colspan=\"2\">Total Due:</td><td id=\"0-1d\"></td><td id=\"0-1e\">TOTAL</td><td id=\"0-1f\"></td></tr>\n<tr><td id=\"0-1g\" colspan=\"2\">$13050.00</td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\" colspan=\"5\">THANK YOU FOR YOUR BUSINESS!</td></tr>\n</table>",
+  "metadata": {
+    "credit_usage": 3.0,
+    "duration_ms": 6022,
+    "filename": "c9b1a39ff1544e59018e28485c4e83ee.jpg",
+    "job_id": "a79ff516cbda4227a9b562a62352826e",
+    "org_id": "dk8btvxvg516",
+    "page_count": 1,
+    "version": "dpt-2-20260410",
+    "failed_pages": []
+  },
+  "splits": [
+    {
+      "chunks": [
+        "98d25f9a-559f-4217-a506-181a3910a405",
+        "59643418-c66f-4220-b659-95d73652d338",
+        "a7c3ba7b-440c-4927-a7c5-c4869ab1ed11",
+        "5941c71c-52a8-4803-9418-b92f9f82ac7a"
+      ],
+      "class": "full",
+      "identifier": "full",
+      "markdown": "<a id='98d25f9a-559f-4217-a506-181a3910a405'></a>\n\n<::logo: \nINVOICE\nBlue and red bold text with a slight 3D effect::>\n\n<a id='59643418-c66f-4220-b659-95d73652d338'></a>\n\nYour Hospital Name\nTO JOHN SMITH\nDirector\nA: 789, WEST STREET, IA 50023\nW: info@yourmail.com\nP: +1-202-555-0163\n\n<a id='a7c3ba7b-440c-4927-a7c5-c4869ab1ed11'></a>\n\nDECEMBER 07, 2017\n\nInvoice No.#23698720\nInvoice Date: 20-April-2018\nIssue Date: 24-April-2018\nAccount No.: 98760967\n\n<a id='5941c71c-52a8-4803-9418-b92f9f82ac7a'></a>\n\n<table id=\"0-1\">\n<tr><td id=\"0-2\">No.</td><td id=\"0-3\">Medicine</td><td id=\"0-4\">Amount</td><td id=\"0-5\">Quantity</td><td id=\"0-6\">Balance</td></tr>\n<tr><td id=\"0-7\">01.</td><td id=\"0-8\">Udddd</td><td id=\"0-9\">$2000.00</td><td id=\"0-a\">2</td><td id=\"0-b\">$4000.00</td></tr>\n<tr><td id=\"0-c\">02.</td><td id=\"0-d\">Hnnnnn</td><td id=\"0-e\">$500.00</td><td id=\"0-f\">1</td><td id=\"0-g\">$500.00</td></tr>\n<tr><td id=\"0-h\">03.</td><td id=\"0-i\">Kkklllllll</td><td id=\"0-j\">$100.00</td><td id=\"0-k\">2</td><td id=\"0-l\">$200.00</td></tr>\n<tr><td id=\"0-m\">04.</td><td id=\"0-n\">Urujnggg</td><td id=\"0-o\">$1500.00</td><td id=\"0-p\">1</td><td id=\"0-q\">$1500.00</td></tr>\n<tr><td id=\"0-r\">05.</td><td id=\"0-s\">Ghjhkkil</td><td id=\"0-t\">$5000.00</td><td id=\"0-u\">1</td><td id=\"0-v\">$5000.00</td></tr>\n<tr><td id=\"0-w\">06.</td><td id=\"0-x\">Kngtad</td><td id=\"0-y\">$300.00</td><td id=\"0-z\">2</td><td id=\"0-A\">$600.00</td></tr>\n<tr><td id=\"0-B\">07.</td><td id=\"0-C\">Liningg</td><td id=\"0-D\">$20.00</td><td id=\"0-E\">2</td><td id=\"0-F\">$40.00</td></tr>\n<tr><td id=\"0-G\">08.</td><td id=\"0-H\">Ikkngt</td><td id=\"0-I\">$450.00</td><td id=\"0-J\">1</td><td id=\"0-K\">$450.00</td></tr>\n<tr><td id=\"0-L\"></td><td id=\"0-M\"></td><td id=\"0-N\"></td><td id=\"0-O\">Sub-Total</td><td id=\"0-P\">$12290.00</td></tr>\n<tr><td id=\"0-Q\"></td><td id=\"0-R\"></td><td id=\"0-S\"></td><td id=\"0-T\">Tax Vat (15%)</td><td id=\"0-U\">$2278.00</td></tr>\n<tr><td id=\"0-V\" colspan=\"2\">Payment Method:</td><td id=\"0-W\"></td><td id=\"0-X\">Discount</td><td id=\"0-Y\">$760.00</td></tr>\n<tr><td id=\"0-Z\" colspan=\"2\">Pay Pal: payment@website.com</td><td id=\"0-10\"></td><td id=\"0-11\">(5%)</td><td id=\"0-12\"></td></tr>\n<tr><td id=\"0-13\" colspan=\"2\">Card Payment We Accept: Visa, MasterCard</td><td id=\"0-14\"></td><td id=\"0-15\"></td><td id=\"0-16\"></td></tr>\n<tr><td id=\"0-17\"></td><td id=\"0-18\"></td><td id=\"0-19\"></td><td id=\"0-1a\">GRAND</td><td id=\"0-1b\">$13050.00</td></tr>\n<tr><td id=\"0-1c\" colspan=\"2\">Total Due:</td><td id=\"0-1d\"></td><td id=\"0-1e\">TOTAL</td><td id=\"0-1f\"></td></tr>\n<tr><td id=\"0-1g\" colspan=\"2\">$13050.00</td><td id=\"0-1h\"></td><td id=\"0-1i\"></td><td id=\"0-1j\"></td></tr>\n<tr><td id=\"0-1k\" colspan=\"5\">THANK YOU FOR YOUR BUSINESS!</td></tr>\n</table>",
+      "pages": [
+        0
+      ],
+      "class": "full"
+    }
+  ],
+  "grounding": {
+    "98d25f9a-559f-4217-a506-181a3910a405": {
+      "box": {
+        "bottom": 0.13849575817584991,
+        "left": 0.40745651721954346,
+        "right": 0.5922910571098328,
+        "top": 0.08315641433000565
+      },
+      "page": 0,
+      "type": "chunkLogo",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "59643418-c66f-4220-b659-95d73652d338": {
+      "box": {
+        "bottom": 0.25139570236206055,
+        "left": 0.11471754312515259,
+        "right": 0.4175301194190979,
+        "top": 0.1392173320055008
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 0.997,
+      "low_confidence_spans": []
+    },
+    "a7c3ba7b-440c-4927-a7c5-c4869ab1ed11": {
+      "box": {
+        "bottom": 0.2679232358932495,
+        "left": 0.5335591435432434,
+        "right": 0.811346709728241,
+        "top": 0.16223439574241638
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 0.999,
+      "low_confidence_spans": []
+    },
+    "5941c71c-52a8-4803-9418-b92f9f82ac7a": {
+      "box": {
+        "bottom": 0.6334995627403259,
+        "left": 0.045386284589767456,
+        "right": 0.9509539604187012,
+        "top": 0.27957117557525635
+      },
+      "page": 0,
+      "type": "chunkTable",
+      "confidence": 0.169,
+      "low_confidence_spans": []
+    },
+    "0-1": {
+      "box": {
+        "bottom": 0.6298782407719408,
+        "left": 0.05235687305975327,
+        "right": 0.9423236234889245,
+        "top": 0.28552631333096523
+      },
+      "page": 0,
+      "type": "table",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "0-2": {
+      "box": {
+        "bottom": 0.3013243690151512,
+        "left": 0.05235687305975327,
+        "right": 0.10269365792365678,
+        "top": 0.28552631333096523
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.97,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-3": {
+      "box": {
+        "bottom": 0.3013674313596281,
+        "left": 0.1026831149818973,
+        "right": 0.45520260660817286,
+        "top": 0.2855291459924508
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-4": {
+      "box": {
+        "bottom": 0.3013944215228286,
+        "left": 0.45520017518085615,
+        "right": 0.6761510646154063,
+        "top": 0.2855489830090092
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-5": {
+      "box": {
+        "bottom": 0.30140833315526094,
+        "left": 0.6761171425113137,
+        "right": 0.7900352864875635,
+        "top": 0.2855614149310431
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-6": {
+      "box": {
+        "bottom": 0.301426900332301,
+        "left": 0.7900075037382501,
+        "right": 0.9420310008549648,
+        "top": 0.2855678240181689
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 0,
+        "rowspan": 1
+      }
+    },
+    "0-7": {
+      "box": {
+        "bottom": 0.3179607620645742,
+        "left": 0.05235777692263877,
+        "right": 0.1026831149818973,
+        "top": 0.30131822147694437
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.992,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-8": {
+      "box": {
+        "bottom": 0.3179579054225482,
+        "left": 0.10267201248557004,
+        "right": 0.4552051536256779,
+        "top": 0.3013243690151512
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-9": {
+      "box": {
+        "bottom": 0.3179378896150669,
+        "left": 0.45520260660817286,
+        "right": 0.6761864819970463,
+        "top": 0.3013674313596281
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-a": {
+      "box": {
+        "bottom": 0.3179253429372955,
+        "left": 0.6761510646154063,
+        "right": 0.7900642444146557,
+        "top": 0.3013944215228286
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-b": {
+      "box": {
+        "bottom": 0.3179188772888133,
+        "left": 0.7900352864875635,
+        "right": 0.9420456879173732,
+        "top": 0.30140833315526094
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 1,
+        "rowspan": 1
+      }
+    },
+    "0-c": {
+      "box": {
+        "bottom": 0.33544813705175286,
+        "left": 0.05235872947217354,
+        "right": 0.10267201248557004,
+        "top": 0.3179579054225482
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.97,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-d": {
+      "box": {
+        "bottom": 0.33544107428985226,
+        "left": 0.10266034287945722,
+        "right": 0.4552078364022026,
+        "top": 0.3179378896150669
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.984,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-e": {
+      "box": {
+        "bottom": 0.33539157272552733,
+        "left": 0.4552051536256779,
+        "right": 0.6762238367820568,
+        "top": 0.3179253429372955
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-f": {
+      "box": {
+        "bottom": 0.3353605396364807,
+        "left": 0.6761864819970463,
+        "right": 0.7900948073919688,
+        "top": 0.3179188772888133
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-g": {
+      "box": {
+        "bottom": 0.3353445508937441,
+        "left": 0.7900642444146557,
+        "right": 0.9420612032910707,
+        "top": 0.3179102482240279
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 2,
+        "rowspan": 1
+      }
+    },
+    "0-h": {
+      "box": {
+        "bottom": 0.35740618158438653,
+        "left": 0.052359730376501865,
+        "right": 0.10266034287945722,
+        "top": 0.33544107428985226
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-i": {
+      "box": {
+        "bottom": 0.3573973435127033,
+        "left": 0.1026456875835276,
+        "right": 0.45521120934766623,
+        "top": 0.33539157272552733
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.169,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-j": {
+      "box": {
+        "bottom": 0.3573353763670636,
+        "left": 0.4552078364022026,
+        "right": 0.6762708344700429,
+        "top": 0.3353605396364807
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-k": {
+      "box": {
+        "bottom": 0.35729652278343327,
+        "left": 0.6762238367820568,
+        "right": 0.7901332739667101,
+        "top": 0.3353445508937441
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-l": {
+      "box": {
+        "bottom": 0.3572765102469382,
+        "left": 0.7900948073919688,
+        "right": 0.9420807404147516,
+        "top": 0.3353232131322792
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 3,
+        "rowspan": 1
+      }
+    },
+    "0-m": {
+      "box": {
+        "bottom": 0.3778462584740777,
+        "left": 0.05236098716328834,
+        "right": 0.1026456875835276,
+        "top": 0.3573973435127033
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.994,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-n": {
+      "box": {
+        "bottom": 0.3778394121682448,
+        "left": 0.10263204298104435,
+        "right": 0.4552143536079671,
+        "top": 0.3573353763670636
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-o": {
+      "box": {
+        "bottom": 0.37779139363217695,
+        "left": 0.45521120934766623,
+        "right": 0.6763146800706974,
+        "top": 0.35729652278343327
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-p": {
+      "box": {
+        "bottom": 0.37776128175849283,
+        "left": 0.6762708344700429,
+        "right": 0.7901691751153798,
+        "top": 0.3572765102469382
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-q": {
+      "box": {
+        "bottom": 0.3777457758014099,
+        "left": 0.7901332739667101,
+        "right": 0.9420989843858211,
+        "top": 0.35724980386131133
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 4,
+        "rowspan": 1
+      }
+    },
+    "0-r": {
+      "box": {
+        "bottom": 0.3939005235764461,
+        "left": 0.05236215706794499,
+        "right": 0.10263204298104435,
+        "top": 0.3778394121682448
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-s": {
+      "box": {
+        "bottom": 0.39389536508928574,
+        "left": 0.1026213260081788,
+        "right": 0.4552168233598191,
+        "top": 0.37779139363217695
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-t": {
+      "box": {
+        "bottom": 0.3938591748251266,
+        "left": 0.4552143536079671,
+        "right": 0.6763491210641627,
+        "top": 0.37776128175849283
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-u": {
+      "box": {
+        "bottom": 0.39383647789244264,
+        "left": 0.6763146800706974,
+        "right": 0.7901973761844061,
+        "top": 0.3777457758014099
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-v": {
+      "box": {
+        "bottom": 0.39382479255199504,
+        "left": 0.7901691751153798,
+        "right": 0.9421133157226096,
+        "top": 0.37772508432935825
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 5,
+        "rowspan": 1
+      }
+    },
+    "0-w": {
+      "box": {
+        "bottom": 0.41562886675442595,
+        "left": 0.05236307594704724,
+        "right": 0.1026213260081788,
+        "top": 0.39389536508928574
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-x": {
+      "box": {
+        "bottom": 0.4156184674540197,
+        "left": 0.10260682634567087,
+        "right": 0.45522015672605337,
+        "top": 0.3938591748251266
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.975,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-y": {
+      "box": {
+        "bottom": 0.41554548280045805,
+        "left": 0.4552168233598191,
+        "right": 0.6763955343709578,
+        "top": 0.39383647789244264
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-z": {
+      "box": {
+        "bottom": 0.4154997034525917,
+        "left": 0.6763491210641627,
+        "right": 0.7902353505936375,
+        "top": 0.39382479255199504
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-A": {
+      "box": {
+        "bottom": 0.4154761406464449,
+        "left": 0.7901973761844061,
+        "right": 0.942132593477998,
+        "top": 0.3938091999592842
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.999,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 6,
+        "rowspan": 1
+      }
+    },
+    "0-B": {
+      "box": {
+        "bottom": 0.4347527254529296,
+        "left": 0.05236431958668727,
+        "right": 0.10260682634567087,
+        "top": 0.4156184674540197
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.971,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-C": {
+      "box": {
+        "bottom": 0.4347458630977662,
+        "left": 0.10259405925665965,
+        "right": 0.45522310057928256,
+        "top": 0.41554548280045805
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.218,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-D": {
+      "box": {
+        "bottom": 0.4346976860920422,
+        "left": 0.45522015672605337,
+        "right": 0.6764366011603824,
+        "top": 0.4154997034525917
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-E": {
+      "box": {
+        "bottom": 0.43466746338535933,
+        "left": 0.6763955343709578,
+        "right": 0.7902689830751081,
+        "top": 0.4154761406464449
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-F": {
+      "box": {
+        "bottom": 0.4346519113386689,
+        "left": 0.7902353505936375,
+        "right": 0.9421496890791617,
+        "top": 0.41544470063356476
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 7,
+        "rowspan": 1
+      }
+    },
+    "0-G": {
+      "box": {
+        "bottom": 0.4508526840057028,
+        "left": 0.05236541415651033,
+        "right": 0.10259405925665965,
+        "top": 0.4347458630977662
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.976,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-H": {
+      "box": {
+        "bottom": 0.45084533997690757,
+        "left": 0.10258331323257051,
+        "right": 0.45522557468111047,
+        "top": 0.4346976860920422
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-I": {
+      "box": {
+        "bottom": 0.4507937674799717,
+        "left": 0.45522310057928256,
+        "right": 0.6764710823292419,
+        "top": 0.43466746338535933
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-J": {
+      "box": {
+        "bottom": 0.4507614112240357,
+        "left": 0.6764366011603824,
+        "right": 0.7902972084120887,
+        "top": 0.4346519113386689
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-K": {
+      "box": {
+        "bottom": 0.45074476461589935,
+        "left": 0.7902689830751081,
+        "right": 0.9421640269008607,
+        "top": 0.434631161040806
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 8,
+        "rowspan": 1
+      }
+    },
+    "0-L": {
+      "box": {
+        "bottom": 0.4668088432027002,
+        "left": 0.0523663356509149,
+        "right": 0.10258331323257051,
+        "top": 0.45084533997690757
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.992,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-M": {
+      "box": {
+        "bottom": 0.46680277397675635,
+        "left": 0.10257266201877953,
+        "right": 0.4552280288459454,
+        "top": 0.4507937674799717
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-N": {
+      "box": {
+        "bottom": 0.4667601422171661,
+        "left": 0.45522557468111047,
+        "right": 0.6765053021855578,
+        "top": 0.4507614112240357
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.977,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-O": {
+      "box": {
+        "bottom": 0.4667333924767477,
+        "left": 0.6764710823292419,
+        "right": 0.7903252268148151,
+        "top": 0.45074476461589935
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.997,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-P": {
+      "box": {
+        "bottom": 0.4667196330273821,
+        "left": 0.7902972084120887,
+        "right": 0.9421782643285909,
+        "top": 0.4507225547111675
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 9,
+        "rowspan": 1
+      }
+    },
+    "0-Q": {
+      "box": {
+        "bottom": 0.4988303956301666,
+        "left": 0.05236724891484475,
+        "right": 0.10257266201877953,
+        "top": 0.46680277397675635
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.974,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-R": {
+      "box": {
+        "bottom": 0.49883321334766895,
+        "left": 0.1025512843307721,
+        "right": 0.4552329587442228,
+        "top": 0.4667601422171661
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.99,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-S": {
+      "box": {
+        "bottom": 0.4988349817320097,
+        "left": 0.4552280288459454,
+        "right": 0.6765740796123809,
+        "top": 0.4667333924767477
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-T": {
+      "box": {
+        "bottom": 0.49883589098627623,
+        "left": 0.6765053021855578,
+        "right": 0.7903815556825323,
+        "top": 0.4667196330273821
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.978,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-U": {
+      "box": {
+        "bottom": 0.49883710398075753,
+        "left": 0.7903252268148151,
+        "right": 0.9422068981302076,
+        "top": 0.4667012758356383
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 10,
+        "rowspan": 1
+      }
+    },
+    "0-V": {
+      "box": {
+        "bottom": 0.5139287266420223,
+        "left": 0.05236908167185711,
+        "right": 0.4552352649983826,
+        "top": 0.4988299947041164
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 2,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-W": {
+      "box": {
+        "bottom": 0.5138373066466424,
+        "left": 0.4552329587442228,
+        "right": 0.6766061143599092,
+        "top": 0.49883321334766895
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-X": {
+      "box": {
+        "bottom": 0.5137870721859815,
+        "left": 0.6765740796123809,
+        "right": 0.7904077333415709,
+        "top": 0.4988349817320097
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-Y": {
+      "box": {
+        "bottom": 0.5137612478149391,
+        "left": 0.7903815556825323,
+        "right": 0.9422201652082729,
+        "top": 0.49883589098627623
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": null,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 11,
+        "rowspan": 1
+      }
+    },
+    "0-Z": {
+      "box": {
+        "bottom": 0.5292120982138875,
+        "left": 0.052369945860230714,
+        "right": 0.45523762823195507,
+        "top": 0.5138373066466424
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.983,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 2,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "0-10": {
+      "box": {
+        "bottom": 0.5292594048912479,
+        "left": 0.4552352649983826,
+        "right": 0.6766392637227634,
+        "top": 0.5137870721859815
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "0-11": {
+      "box": {
+        "bottom": 0.5292837195093204,
+        "left": 0.6766061143599092,
+        "right": 0.7904349582834006,
+        "top": 0.5137612478149391
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "0-12": {
+      "box": {
+        "bottom": 0.529316154278419,
+        "left": 0.7904077333415709,
+        "right": 0.942234055702614,
+        "top": 0.5137267978606727
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": null,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 12,
+        "rowspan": 1
+      }
+    },
+    "0-13": {
+      "box": {
+        "bottom": 0.5440175683680231,
+        "left": 0.05237081568973655,
+        "right": 0.4552398987564184,
+        "top": 0.5291260180443444
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.967,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 2,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "0-14": {
+      "box": {
+        "bottom": 0.5439837402474761,
+        "left": 0.455237628231955,
+        "right": 0.6766707706709175,
+        "top": 0.5292120982138875
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.998,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "0-15": {
+      "box": {
+        "bottom": 0.5439651470955311,
+        "left": 0.6766392637227634,
+        "right": 0.7904606913556054,
+        "top": 0.5292594048912479
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "0-16": {
+      "box": {
+        "bottom": 0.5439555923606072,
+        "left": 0.7904349582834006,
+        "right": 0.9422470884403898,
+        "top": 0.5292837195093204
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": null,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 13,
+        "rowspan": 1
+      }
+    },
+    "0-17": {
+      "box": {
+        "bottom": 0.5586660742591485,
+        "left": 0.052371668019899606,
+        "right": 0.10252112576106635,
+        "top": 0.5440133574082788
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.962,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 1,
+        "row": 14,
+        "rowspan": 1
+      }
+    },
+    "0-18": {
+      "box": {
+        "bottom": 0.5586465146972657,
+        "left": 0.10251135847099178,
+        "right": 0.4552421313962904,
+        "top": 0.5439837402474761
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.991,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 1,
+        "colspan": 1,
+        "row": 14,
+        "rowspan": 1
+      }
+    },
+    "0-19": {
+      "box": {
+        "bottom": 0.5585089116389306,
+        "left": 0.4552398987564184,
+        "right": 0.6767017454863892,
+        "top": 0.5439651470955311
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.979,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 14,
+        "rowspan": 1
+      }
+    },
+    "0-1a": {
+      "box": {
+        "bottom": 0.5584225184956734,
+        "left": 0.6766707706709175,
+        "right": 0.7904859871181578,
+        "top": 0.5439555923606072
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 14,
+        "rowspan": 1
+      }
+    },
+    "0-1b": {
+      "box": {
+        "bottom": 0.5583781303650064,
+        "left": 0.7904606913556054,
+        "right": 0.9422598978716175,
+        "top": 0.5439428471299184
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 14,
+        "rowspan": 1
+      }
+    },
+    "0-1c": {
+      "box": {
+        "bottom": 0.5740036930382423,
+        "left": 0.05237250643921414,
+        "right": 0.4552445130732998,
+        "top": 0.5585089116389306
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.988,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 2,
+        "row": 15,
+        "rowspan": 1
+      }
+    },
+    "0-1d": {
+      "box": {
+        "bottom": 0.5740151393595718,
+        "left": 0.4552421313962904,
+        "right": 0.6767351525657684,
+        "top": 0.5584225184956734
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 1.0,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 15,
+        "rowspan": 1
+      }
+    },
+    "0-1e": {
+      "box": {
+        "bottom": 0.5740210192588293,
+        "left": 0.6767017454863892,
+        "right": 0.7905134232603244,
+        "top": 0.5583781303650064
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.996,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 15,
+        "rowspan": 1
+      }
+    },
+    "0-1f": {
+      "box": {
+        "bottom": 0.5740288620242746,
+        "left": 0.7904859871181578,
+        "right": 0.9422738958087273,
+        "top": 0.5583189221645934
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": null,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 15,
+        "rowspan": 1
+      }
+    },
+    "0-1g": {
+      "box": {
+        "bottom": 0.5993539009149967,
+        "left": 0.05237338310883427,
+        "right": 0.45524840961147783,
+        "top": 0.5739828732310555
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.972,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 2,
+        "row": 16,
+        "rowspan": 1
+      }
+    },
+    "0-1h": {
+      "box": {
+        "bottom": 0.599366988091903,
+        "left": 0.4552445130732998,
+        "right": 0.6767894687214936,
+        "top": 0.5740036930382423
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.973,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 2,
+        "colspan": 1,
+        "row": 16,
+        "rowspan": 1
+      }
+    },
+    "0-1i": {
+      "box": {
+        "bottom": 0.5993737087758912,
+        "left": 0.6767351525657684,
+        "right": 0.7905578894710491,
+        "top": 0.5740151393595718
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.986,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 3,
+        "colspan": 1,
+        "row": 16,
+        "rowspan": 1
+      }
+    },
+    "0-1j": {
+      "box": {
+        "bottom": 0.5993826724861533,
+        "left": 0.7905134232603244,
+        "right": 0.9422964866682414,
+        "top": 0.5740210192588293
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": null,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 4,
+        "colspan": 1,
+        "row": 16,
+        "rowspan": 1
+      }
+    },
+    "0-1k": {
+      "box": {
+        "bottom": 0.6298782407719408,
+        "left": 0.05237483387836483,
+        "right": 0.9423236234889245,
+        "top": 0.5993301018152828
+      },
+      "page": 0,
+      "type": "tableCell",
+      "confidence": 0.982,
+      "position": {
+        "chunk_id": "5941c71c-52a8-4803-9418-b92f9f82ac7a",
+        "col": 0,
+        "colspan": 5,
+        "row": 17,
+        "rowspan": 1
+      }
+    }
+  }
+}

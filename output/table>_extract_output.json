@@ -1,0 +1,60 @@
+{
+  "extraction": {
+    "Patient name": "JOHN SMITH",
+    "Hospital": "Your Hospital Name",
+    "Invoice ID": "#23698720",
+    "Amount": "$13050.00",
+    "Balance Due": "$13050.00",
+    "Payment method": "Pay Pal: payment@website.com, Card Payment We Accept: Visa, MasterCard"
+  },
+  "extraction_metadata": {
+    "Patient name": {
+      "references": [
+        "59643418-c66f-4220-b659-95d73652d338"
+      ],
+      "value": "JOHN SMITH"
+    },
+    "Hospital": {
+      "references": [
+        "59643418-c66f-4220-b659-95d73652d338"
+      ],
+      "value": "Your Hospital Name"
+    },
+    "Invoice ID": {
+      "references": [
+        "a7c3ba7b-440c-4927-a7c5-c4869ab1ed11"
+      ],
+      "value": "#23698720"
+    },
+    "Amount": {
+      "references": [
+        "0-1b"
+      ],
+      "value": "$13050.00"
+    },
+    "Balance Due": {
+      "references": [
+        "0-1g"
+      ],
+      "value": "$13050.00"
+    },
+    "Payment method": {
+      "references": [
+        "0-Z",
+        "0-13"
+      ],
+      "value": "Pay Pal: payment@website.com, Card Payment We Accept: Visa, MasterCard"
+    }
+  },
+  "metadata": {
+    "credit_usage": 0.7744,
+    "duration_ms": 11201,
+    "filename": "upload.md",
+    "job_id": "3c26ac50d1f34a419bbe3a78d813e4d2",
+    "org_id": "dk8btvxvg516",
+    "version": "extract-20260314",
+    "fallback_model_version": null,
+    "schema_violation_error": null,
+    "warnings": []
+  }
+}
